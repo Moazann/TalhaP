@@ -1,0 +1,41 @@
+.parent__container {
+    display: flex;
+    height: 300px;
+    background-color: var(--container-color);
+    justify-content: center;
+}
+
+.title {
+    padding-top: 110px;
+    color: var(--title-color);
+    font-size: 50px;
+    font-weight: 800;
+}
+
+
+.cf__container {
+    grid-template-columns: repeat(2, 480px);
+    column-gap: 3rem;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.cf__content {
+    
+    padding: 2rem 4rem;
+}
+
+h5, h6 {
+    color: var(--title-color);
+    font-weight: 600;
+}
+
+.desc__container {
+    
+    margin: 170px;
+    margin-top: 70px;
+}
+
+.img__class {
+    width: 100%;
+}

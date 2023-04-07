@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="23">
+      <path
+        fill="#FFF"
+        stroke="#000"
+        strokeLinecap="square"
+        strokeWidth="2"
+        d="M167 245.36l-15 30-15-30 15 10 15-10h0z"
+        transform="translate(4) scale(.71875) translate(-136 -244.36)"
+      ></path>
+    </svg>

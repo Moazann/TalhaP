@@ -1,0 +1,19 @@
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="40"
+      height="40"
+      fill="var(--container-color)"
+      viewBox="0 0 24 24"
+    >
+      <g>
+        <g>
+          <path
+            stroke="#fff"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="1.5"
+            d="M4.314 12.711l3.626 1.221a3.41 3.41 0 011.38.87c.337.352.598.78.756 1.262l1.223 3.62c1.046 3.132 5.451 3.065 6.43-.066l4.116-13.214A3.383 3.383 0 0021.015 3a3.315 3.315 0 00-3.397-.838L4.358 6.27c-3.114.977-3.159 5.396-.044 6.44z"
+          ></path>
+        </g>
+      </g>
+    </svg>

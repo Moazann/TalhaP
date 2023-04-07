@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="31">
+      <g stroke="#000">
+        <path
+          fill="#FFF"
+          d="M31.742 214.36h81.388l-1.89 30.57 29.02-.07v115.5H31.74l.002-146h0z"
+          transform="matrix(.16533 0 0 .16533 5 0) translate(28.587 -135.63) scale(.78306)"
+        ></path>
+        <path
+          fill="none"
+          d="M112.81 215.01l26.91 28.67"
+          transform="matrix(.16533 0 0 .16533 5 0) translate(28.587 -135.63) scale(.78306)"
+        ></path>
+      </g>
+    </svg>

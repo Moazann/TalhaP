@@ -1,0 +1,39 @@
+                <svg xmlns="http://www.w3.org/2000/svg" width="33" height="46">
+                    <defs>
+                        <linearGradient
+                            id="1"
+                            x1="468.533"
+                            x2="977.65"
+                            y1="1641.865"
+                            y2="728.687"
+                        >
+                            <stop offset="0%" stopColor="#FFF"></stop>
+                            <stop offset="100%" stopColor="#F2F2F2"></stop>
+                        </linearGradient>
+                    </defs>
+                    <path
+                        fill="var(--title-color)"
+                        d="M277.143 400.934h1000v1000h-1000v-1000z"
+                        transform="scale(.20122 .19913) scale(.22043 .21958) matrix(-1 0 0 1 -3000 -360) translate(-82.857 -80) rotate(15.159 -2397.205 2960.712) matrix(.62826 0 0 .62826 -2917.652 923.952) scale(-1 1) rotate(15.159 2397.205 2960.712)"
+                    ></path>
+                    <path
+                        fill="var(--title-color)"
+                        d="M-2522.857 465.22l285.714 294.285 352.857 72.857-127.143-351.428-511.428-15.715z"
+                        transform="scale(.20122 .19913) scale(.22043 .21958) matrix(-1 0 0 1 -3000 -360) translate(-82.857 -80) rotate(15.159 -2397.205 2960.712) matrix(.62826 0 0 .62826 -2917.652 923.952) scale(-1 1) rotate(15.159 -714.674 13701.92)"
+                    ></path>
+                    <path
+                        fill="var(--title-color)"
+                        d="M-1840 292.362l560 280 80 240-160-160-480-360z"
+                        transform="scale(.20122 .19913) scale(.22043 .21958) matrix(-1 0 0 1 -3000 -360) translate(-82.857 -80) rotate(15.159 -2397.205 2960.712) matrix(.62826 0 0 .62826 -2917.652 923.952)"
+                    ></path>
+                    <path
+                        fill="#FFFFFF"
+                        d="M-1200 812.362l-280-200 120 40 160 160z"
+                        transform="scale(.20122 .19913) scale(.22043 .21958) matrix(-1 0 0 1 -3000 -360) translate(-82.857 -80) rotate(15.159 -2397.205 2960.712) matrix(.62826 0 0 .62826 -2917.652 923.952)"
+                    ></path>
+                    <path
+                        fill="#FFFFFF"
+                        d="M-1840 292.362l320 680 160-320-480-360zM-1280 572.362l280-120-840-160 560 280z"
+                        transform="scale(.20122 .19913) scale(.22043 .21958) matrix(-1 0 0 1 -3000 -360) translate(-82.857 -80) rotate(15.159 -2397.205 2960.712) matrix(.62826 0 0 .62826 -2917.652 923.952)"
+                    ></path>
+                </svg>
